@@ -1,4 +1,5 @@
 # 💻 Green Bean Fucker Zero ! 
+Made with Claude and Human fixing
 ## ✨ Features
   - :BanAsync() on every Grow a garden wasps On all servers
   - Detects immediatly after loading in
